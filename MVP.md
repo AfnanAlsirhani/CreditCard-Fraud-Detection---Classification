@@ -1,5 +1,5 @@
 # CreditCard Fraud Detection - Classification MVP
-Wafaa Alharbi - Afnan Alserhani
+Wafaa Alharbi - Afnan Alsirhani
 </br>
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 ### Goal the project:
@@ -33,6 +33,7 @@ The dataset [CreditCardFraud] (https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - As seen in above table the best model is : XGBClassifier.
 <img src="https://github.com/Wafaa-Alharbi/CreditCard-Fraud-Detection-Classification/blob/main/images/heatmap-matrics.png" width="650"/>
 - The four models showen in above gragh is to distinguish between Froud and Valid transactions with the imbalanced classes.
+</br> 
 ### Future Work:
 1- Try new models and choose the best F1 score.
 </br>
